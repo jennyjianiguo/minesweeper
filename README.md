@@ -1,4 +1,4 @@
-# minesweeper
+# Minesweeper Desktop Game
 
 ## Overview
 Minesweeper is a single-player video game with the objective of discovering all the mines in a grid field.
@@ -23,3 +23,4 @@ In this program, users can utilize numbers on the grid to flag points they belie
 - The program will ask if the user would like to play again.
 
 ## Sample Output
+<img width="250" alt="Screenshot 2023-02-26 at 9 41 11 PM" src="https://user-images.githubusercontent.com/106011498/221484101-e9d5cef6-7586-406f-9f85-8e840b99dc05.png"> <img width="250" alt="Screenshot 2023-02-26 at 9 41 32 PM" src="https://user-images.githubusercontent.com/106011498/221484127-93cede10-1f5f-419a-a5ac-1c48cbe5e95d.png"> <img width="250" alt="Screenshot 2023-02-26 at 9 43 47 PM" src="https://user-images.githubusercontent.com/106011498/221484137-9b889122-7252-4070-8df9-2c5d39fde4e1.png"> <img width="250" alt="Screenshot 2023-02-26 at 9 41 48 PM" src="https://user-images.githubusercontent.com/106011498/221484142-637bfd0d-0926-4d5f-9aac-5c2b10877cab.png"> <img width="250" alt="Screenshot 2023-02-26 at 9 44 18 PM" src="https://user-images.githubusercontent.com/106011498/221484151-5a48c2cb-2685-4843-b73a-2a70fa70c434.png">
